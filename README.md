@@ -30,3 +30,6 @@ The [ReactJS](https://softuni.bg/trainings/3727/reactjs-june-2022) course provid
 - Advanced Techniques
 - Workshop: Advanced Techniques
 - Project Defense
+
+  ![HTML   CSS - May 2022 - Certificate](https://raw.githubusercontent.com/yavorhr/certificates/refs/heads/main/ReactJS%20-%20February%202023%20-%20Certificate.jpeg)
+
